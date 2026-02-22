@@ -26,8 +26,8 @@
 
   Here are a few things I've built:
 
-  🎓 Student Management System: Designed normalized relational tables and implemented CRUD operations for student records and subject assignments using HTML, CSS and JavaScript.
-
+  🏫 School Website: Designed a fully responsive and interactive educational platform, featuring dynamic user interfaces and structured layouts to seamlessly display academic resources and campus     information using HTML, CSS, and JavaScript.
+  
   ☁️ Dynamic Weather App: A front-end application that integrates weather APIs with asynchronous fetch calls to display dynamic forecasts based on user input.
 
   📊 Data Analytics Dashboard: Processed and visualized dataset summaries and generated insight reports using Python and Pandas.
