@@ -26,7 +26,7 @@
 
   Here are a few things I've built:
 
-  🎓 Student Management System: Designed normalized relational tables and implemented CRUD operations for student records and subject assignments using MySQL, JDBC, and JavaScript.
+  🎓 Student Management System: Designed normalized relational tables and implemented CRUD operations for student records and subject assignments using HTML, CSS and JavaScript.
 
   ☁️ Dynamic Weather App: A front-end application that integrates weather APIs with asynchronous fetch calls to display dynamic forecasts based on user input.
 
